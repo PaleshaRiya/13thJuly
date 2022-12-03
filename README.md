@@ -1,2 +1,2 @@
-# 13th_July
+# 13thJuly
 Demo repo for practise
